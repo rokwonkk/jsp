@@ -1,4 +1,4 @@
-package org.jsp;
+package jsp;
 
 public class Student {
 
